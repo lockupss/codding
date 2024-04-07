@@ -13,6 +13,6 @@ return 0;
 }
 
 int count(int can[100]){
-return strlen(can[100);
+return strlen(can[100]);
 }
 
